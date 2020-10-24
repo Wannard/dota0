@@ -1,0 +1,74 @@
+Map
+	- Removed outposts.
+	- Added shrines back. 2 shrines for each team, 4 in total. Shrines activates at 8 minute, and has 4 minute cooldown.
+	- Bounty runes location changed
+	- Added side shops back.
+
+Side shop
+	- Items that can be bought in side shop: 
+ Town Portal Scroll, 
+ Belt of Strength, 
+ Band of Elveskin, 
+ Robe of the Magi, 
+ Crown, 
+ Stout Shield, 
+ Quelling Blade, 
+ Blades of Attack, 
+ Gloves of Haste, 
+ Quarterstaff,
+ Helm of the Iron Will, 
+ Magic Stick, 
+ Wind Lace, 
+ Ring of Regen, 
+ Sage's Mask, 
+ Boots of Speed, 
+ Morbid Mask, 
+ Blink Dagger, 
+ Ring of Health, 
+ Void Stone, 
+ Energy Booster, 
+ Vitality Booster.
+ 
+Gold
+	- Starting gold changed from 600 to 625
+
+Neutral items
+	- Neutral items removed from the game
+
+Drafting
+	- Removed randoming
+
+Heroes
+	Morphling
+		Attribute Shift
+			- Now can be toggled while disabled. Can't be casted in silence (orchid, hex)
+			- Shift rate changed from 1/4/10/25 to 2/4/8/16
+
+Items
+	Town Portal Scroll
+		- No longer given on match start and doesn't have initial cooldown
+		- Cost changed from 90 to 50
+		
+	Faerie Fire
+		- Cost changed from 70 to 75
+		
+	Smoke of Deceit
+		- Initial stock amount changed from 1 to 0
+		- Maximum stock amount changed from 2 to 1
+    - Restock time changed from 7 minutes to 10 minutes
+		- Duration changed from 35 to 50
+    - Bonus movement speed changed from 15% to 30%
+		
+	Tango
+		- Cost changed from 90 to 125
+		- Initial charges changed from 3 to 4
+		
+	Healing Salve
+		- Cost changed from 110 to 120
+		
+	Dust of Appearance
+		- Initial charges changed from 1 to 2
+		
+	Bottle
+		- Cost changed from 625 to 660
+		
