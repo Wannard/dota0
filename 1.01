@@ -1,0 +1,100 @@
+1.01
+
+Courier
+	- Courier's movement speed changed from 290 to 270
+
+Map
+	- Small map changes
+  
+Items
+	Enchanted Mango
+		- No longer stacks
+		- Cost changed from 70 to 125
+		- Bonus hp regeneration changed from 0.6 to 1
+		- Restored mana changed from 110 to 125
+		
+	Tome of Knowledge
+		- Temporarily removed
+		
+	Smoke of Deceit
+		- Restock time changed from 10 minutes to 5
+		- Maximum stock amount changed from 1 to 2
+		- Bonus movement speed changed from 30% to 15%
+		
+	Gauntlets of Strength, Slippers of Agility, Mantle of Intelligence
+		- Cost changed from 145 to 150
+		
+	Circlet
+		- Cost changed from 155 to 165
+		
+	Quelling Blade
+		- Cost changed from 130 to 200
+		- No longer works on ranged heroes
+		
+	Infused Raindrops
+		- Temporarily removed
+		
+	Wind Lace
+		- Now can be bought from the side shop
+		
+	Gloves of Haste
+		- Cost changed from 450 to 500
+		
+	Helm of Iron Will
+		- Cost changed from 925 to 900
+		
+	Broadsword
+		- Cost changed from 1000 to 1200
+		- Bonus damage changed from 15 to 17
+		
+	Ring of Regen
+		- Cost changed from 175 to 376
+		- Bonus hp regeneration changed from 1.5 to 2
+		
+	Sage's Mask
+		- Cost changed from 175 to 375
+		- Bonus mana regeneration changed from 0.6 to 1
+		
+	Boots of Speed
+		- Bonus movement speed changed from 45 to 50
+		
+	Cloak
+		- Cost changed from 450 to 550
+		
+	Ring of Tarrasque
+		- Cost changed from 650 to 900
+		- Bonus hp regeneration changed from 4 to 5
+	
+	Ring of Health
+		- Cost changed from 825 to 850
+		- Bonus health regeneration changed from 6.5 to 6
+		
+	Void Stone
+		- Cost changed from  825 to 850
+		- Bonus mana regeneration changed from 2.25 to 2
+		
+	Ultimate Orb
+		- Cost changed from 2050 to 2150
+		
+	Magic Wand
+		- Recipe has been changed:
+		Old recipe: magic stick + iron branch + iron branch + recipe
+		Old stats: +3 all attributes
+		New recipe: magic stick + iron branch + iron branch + circlet
+		New stats: +4 all attributes
+		
+	Bracer, Wraith Band, Null Talisman
+		- Item has been changed:
+		New stats: +6 main attribute, +3 secondary attributes, +3 damage
+		Cost: 500
+		- These items are now unique, meaning that they cannot be stacked and you can have only one for each.
+		
+	Phase Boots
+		- Item has been changed:
+		Old recipe: boots of speed + chainmail + blades of attack
+		Old stats: +45 movement speed, +18 damage on melee, +12 damage on ranged, +4 armor
+		New recipe: boots of speed + blades of attack + blades of attack
+		New stats: +50 movement speed, +24 damage
+		
+	Tranquil Boots
+		- Bonus movement speed changed from 70 to 80
