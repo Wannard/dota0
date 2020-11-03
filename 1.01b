@@ -1,0 +1,12 @@
+1.01b
+
+Items
+ Phase Boots
+  - Fixed phase not applying turn rate
+  - Changed phase bonus movement speed from 20/10 to 20/16
+ 
+ Arcane Boots
+  - Fixed bonus movement speed from 45 to 50
+  
+ Guardian Greaves
+  - Changed bonus movement speed from 50 to 60
